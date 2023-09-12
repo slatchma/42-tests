@@ -1,0 +1,4 @@
+ERROR :
+	FILE	 : check_arg.c
+	FUNCTION : ft_check_arg
+	LINE	 : (91)
